@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+body{
+	background-color:skyblue;
+}
+
+#first{
+	color:white;
+	background-color:black;
+}
+#last{
+	color:red;
+}
+
+#fi{
+	padding:5px;
+	background-color:white;
+}
+#si{
+	padding:5px;
+	background-color:#6c757d;
+}
+#ti{
+	padding:5px;
+	background-color:pink;
+}
